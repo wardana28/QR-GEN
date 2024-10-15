@@ -12,7 +12,7 @@ qrText.addEventListener("input", handleQrText);
 sizes.addEventListener("change", handleSize);
 shareBtn.addEventListener("click", handleShare);
 
-const defaultUrl = "https://anggafck.netlify.app";
+const defaultUrl = "https://angga3w.netlify.app";
 let colorLight = "#fff",
   colorDark = "#000",
   text = defaultUrl,
